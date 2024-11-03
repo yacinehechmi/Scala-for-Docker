@@ -1,0 +1,8 @@
+.bloop
+.bsp
+.idea
+.metals
+project
+target
+Try*.scala
+Main.scala
